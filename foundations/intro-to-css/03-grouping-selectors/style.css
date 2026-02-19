@@ -4,7 +4,8 @@ button {
 }
 
 .black-style {
-
+    background-color: black;
+    color: white;
 }
 .yellow-style {
     
