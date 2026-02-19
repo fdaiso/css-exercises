@@ -2,3 +2,12 @@
     background-color: hsl(350, 100%, 88%);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+#blue {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.pink.big {
+    font-size: 24px;
+}
