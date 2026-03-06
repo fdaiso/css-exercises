@@ -62,12 +62,14 @@ button.continue {
   background: royalblue;
   border: 1px solid royalblue;
   color: white;
+  max-width: 100px;
 }
 
 button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+  max-width: 100px;
 }
 
 /* coolio */
@@ -79,4 +81,16 @@ button.cancel {
 
 .header {
   font-weight: bold;
+}
+
+.text-header {
+  display: flex;
+  flex-direction: row;
+  min-width: 100px;
+
+}
+
+.text-body {
+  display: flex;
+  flex-direction: column;
 }
