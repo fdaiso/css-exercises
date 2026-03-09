@@ -47,4 +47,13 @@ li a{
 .footer {
   width: auto;
   justify-content: space-between;
+  
+}
+
+a {
+  color: gray;
+}
+
+.footer {
+  background-color: #eeeeee;
 }
