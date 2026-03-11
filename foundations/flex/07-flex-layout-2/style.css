@@ -32,6 +32,11 @@ body {
 
 .sidebar a {
   color: white;
+  text-decoration: none;
+}
+
+.sidebar li {
+  list-style: none;
 }
 
 .card {
